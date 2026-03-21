@@ -23,6 +23,7 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 
 ### Strings
 - [KMP](codigos/strings/kmp.cpp)
+- [Hash](codigos/strings/hashing.cpp)
 
 ### Problemas Clássicos
 - [Torre de Hanói](codigos/problema-classicos/hanoi.cpp)
