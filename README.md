@@ -1,4 +1,4 @@
-# lib-cp
+# Biblioteca
 
 Biblioteca de algoritmos e estruturas de dados para programação competitiva em C++.
 
