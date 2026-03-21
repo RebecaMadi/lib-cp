@@ -21,8 +21,8 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 ### Matemática
 - [Exponenciação Rápida](codigos/matemática/exponenciacao_rapida.cpp)
 
-### Problemas Clássicos
-- [Torre de Hanói](codigos/problema-classicos/hanoi.cpp)
-
 ### Strings
 - [KMP](codigos/strings/kmp.cpp)
+
+### Problemas Clássicos
+- [Torre de Hanói](codigos/problema-classicos/hanoi.cpp)
