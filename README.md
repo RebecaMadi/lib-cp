@@ -17,7 +17,7 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 - [Dijkstra](codigos/grafos/dijkstra.cpp)
 - [Bellman-Ford](codigos/grafos/bellmanFord.cpp)
 - [Kruskal (MST)](codigos/grafos/kruskall.cpp)
-- [Topological Sort](codigos/topologicalSort.cpp)
+- [Topological Sort](codigos/grafos/topologicalSort.cpp)
 
 ### Matemática
 - [Exponenciação Rápida](codigos/matemática/exponenciacao_rapida.cpp)
