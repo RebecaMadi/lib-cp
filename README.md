@@ -25,5 +25,8 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 - [KMP](codigos/strings/kmp.cpp)
 - [Hash](codigos/strings/hashing.cpp)
 
+### Geometria
+- [Convex Hull](codigos/geometria/convexHull.cpp)
+
 ### Problemas Clássicos
 - [Torre de Hanói](codigos/problema-classicos/hanoi.cpp)
