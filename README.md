@@ -19,6 +19,7 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 - [Bellman-Ford](codigos/grafos/bellmanFord.cpp)
 - [Kruskal (MST)](codigos/grafos/kruskall.cpp)
 - [LCA](codigos/grafos/lca.cpp)
+- [Topological Sort](codigos/grafos/topologicalSort.cpp)
 
 ### Matemática
 - [Exponenciação Rápida](codigos/matemática/exponenciacao_rapida.cpp)
@@ -30,6 +31,9 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 ## Primitivas
 - [Matriz](codigos/primitivas/matrix.cpp)
 - [MINT](codigos/primitivas/mint.cpp)
+
+### Geometria
+- [Convex Hull](codigos/geometria/convexHull.cpp)
 
 ### Problemas Clássicos
 - [Torre de Hanói](codigos/problema-classicos/hanoi.cpp)
