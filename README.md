@@ -6,6 +6,7 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 
 ### Programação Dinâmica
 - [LCS](codigos/dp/lcs.cpp)
+- [LIS](codigos/dp/lis.cpp)
 
 ### Estruturas de Dados
 - [BIT (Fenwick Tree)](codigos/estruturas/bit.cpp)
@@ -17,6 +18,7 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 - [Dijkstra](codigos/grafos/dijkstra.cpp)
 - [Bellman-Ford](codigos/grafos/bellmanFord.cpp)
 - [Kruskal (MST)](codigos/grafos/kruskall.cpp)
+- [LCA](codigos/grafos/lca.cpp)
 - [Topological Sort](codigos/grafos/topologicalSort.cpp)
 
 ### Matemática
@@ -25,6 +27,10 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 ### Strings
 - [KMP](codigos/strings/kmp.cpp)
 - [Hash](codigos/strings/hashing.cpp)
+
+## Primitivas
+- [Matriz](codigos/primitivas/matrix.cpp)
+- [MINT](codigos/primitivas/mint.cpp)
 
 ### Geometria
 - [Convex Hull](codigos/geometria/convexHull.cpp)
