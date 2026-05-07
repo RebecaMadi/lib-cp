@@ -28,7 +28,7 @@ Biblioteca de algoritmos e estruturas de dados para programação competitiva em
 - [KMP](codigos/strings/kmp.cpp)
 - [Hash](codigos/strings/hashing.cpp)
 
-## Primitivas
+### Primitivas
 - [Matriz](codigos/primitivas/matrix.cpp)
 - [MINT](codigos/primitivas/mint.cpp)
 
