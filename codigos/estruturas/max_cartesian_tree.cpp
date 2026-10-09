@@ -2,12 +2,22 @@ struct node {
     ll par = 0, l = 0, r = 0; 
 };
 
-vector<node> tree(MAX);
-vector<ll> a(MAX);
-int n;
+void reset(int n) {
+    for(int i=0; i<=n; i++) tree[i].par = tree[i].l = tree[i].r = 0;
+}
+
+void inorder(int v) {
+    if (v == 0) return;
+
+    inorder(tree[v].l);
+    cout << v << ' ';
+    inorder(tree[v].r);
+}
 
 void solve() {
+    int n;
     cin >> n;
+    reset(n);
     for(int i=1; i<=n; i++) cin >> a[i];
 
     stack<int> st;
@@ -33,5 +43,6 @@ void solve() {
     }
 
     int root = 1;
-    while(tree[root].par != 0) root = tree[roor].par;
+    while(tree[root].par != 0) root = tree[root].par;
+    inorder(root);
 }
